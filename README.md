@@ -7,10 +7,10 @@ A machine learning platform that predicts stock prices using historical technica
 - XGBoost
 
 ## Features
-✔ Technical Indicators  
-✔ Feature Engineering  
-✔ Model Comparison  
-✔ Forecast Visualization  
+Technical Indicators  
+Feature Engineering  
+Model Comparison  
+Forecast Visualization  
 
 ## Evaluation Metrics
 - MAE
